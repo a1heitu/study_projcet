@@ -1,7 +1,7 @@
 ﻿#pragma once
 
 #ifndef VC_EXTRALEAN
-#define VC_EXTRALEAN            // 从 Windows 头中排除极少使用的资料
+#define VC_EXTRALEAN            // 从 Windows 头中排除极少使用的资料111
 #endif
 
 #include "targetver.h"
