@@ -3,3 +3,9 @@
 ################################################################################
 
 /RemoteCtrl/.vs/RemoteCtrl/v16/ipch
+/RemoteCtrl/Debug
+/RemoteCtrl/RemoteClient/Debug
+/RemoteCtrl/RemoteCtrl/Debug
+/RemoteCtrl/RemoteCtrl/RemoteCtrl.vcxproj.user
+/RemoteCtrl/RemoteClient/RemoteClient.vcxproj.user
+/RemoteCtrl/.vs/RemoteCtrl/v16

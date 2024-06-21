@@ -3,7 +3,7 @@
 #include "targetver.h"
 #include <stdio.h>
 #include <tchar.h>
-#define _ATL_CSTRING_EXPLICIT_CONSTRUCTORS      // 部分 CString 构造函数将是显式的
+#define _ATL_CSTRING_EXPLICIT_CONSTRUCTORS      // 部分 CString 构造函数将是显式的11
 #define _AFX_NO_MFC_CONTROLS_IN_DIALOGS         // 移除对话框中的 MFC 控件支持
 
 #ifndef VC_EXTRALEAN
